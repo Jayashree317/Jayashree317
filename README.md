@@ -1,12 +1,15 @@
-👋 Hi, I'm Jayashree!
+# 👋 Hi, I'm Jayashree
 
-🚀 Passionate Full Stack Developer specializing in MERN stack.
+🚀 I’m a passionate Full Stack Developer with hands-on experience in building scalable web applications using the **MERN stack**.
 
-🔧 Technologies: MongoDB, Express.js, React, Node.js
+💻 **Tech Stack:**  
+MongoDB | Express.js | React.js | Node.js
 
-🌟 Building scalable web applications and dynamic user experiences.
+🌟 I enjoy creating dynamic user experiences and writing clean, efficient code.
 
-🌱 Always learning and exploring new technologies.
+📚 Constantly learning and exploring new tools, frameworks, and best practices to stay ahead in web development.
+
+📬 Feel free to connect or explore my projects below!
 
 <!---
 Jayashree317/Jayashree317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
