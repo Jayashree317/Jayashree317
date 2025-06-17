@@ -11,6 +11,10 @@ MongoDB | Express.js | React.js | Node.js
 
 📬 Feel free to connect or explore my projects below!
 
+🔗 Open to internships, freelance opportunities, and junior developer roles.
+
+📫 Let's connect:jshree5137@gmail.com
+
 <!---
 Jayashree317/Jayashree317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
