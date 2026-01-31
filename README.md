@@ -64,8 +64,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *[Add your LinkedIn URL here]*  
-- 📧 Email: *[Add your email here]*  
+- 💼 LinkedIn: https://www.linkedin.com/in/jayashree-s-987006285/
+- 📧 Email: jshreeweb07@gmail.com  
 
 ---
 
