@@ -1,21 +1,72 @@
-# 👋 Hi, I'm Jayashree
+# 👋 Hi, I'm Jaya Shree
 
-🚀 I’m a passionate Full Stack Developer with hands-on experience in building scalable web applications using the **MERN stack**.
+🚀 **Java & MERN Full-Stack Developer**  
+💻 Passionate about building scalable, secure, and user-focused web applications
 
-💻 **Tech Stack:**  
-MongoDB | Express.js | React.js | Node.js
+---
 
-🌟 I enjoy creating dynamic user experiences and writing clean, efficient code.
+## 👩‍💻 About Me
+- Java Full-Stack Developer with hands-on experience in **Spring Boot** and **MERN Stack**
+- Strong understanding of **REST APIs**, **CRUD operations**, and **database design**
+- Experienced in building real-world projects from frontend to backend
+- Always eager to learn new technologies and improve code quality
+- Actively seeking **full-time developer opportunities**
 
-📚 Constantly learning and exploring new tools, frameworks, and best practices to stay ahead in web development.
+---
 
-📬 Feel free to connect or explore my projects below!
+## 🛠️ Tech Stack
 
-🔗 Open to internships, freelance opportunities, and junior developer roles.
+### Backend
+- Java  
+- Spring Boot  
+- Node.js  
+- Express.js  
+- RESTful APIs  
 
-📫 Let's connect:jshree5137@gmail.com
+### Frontend
+- React.js  
+- Redux Toolkit  
+- HTML5, CSS3, JavaScript  
+- Bootstrap, Material-UI  
 
-<!---
-Jayashree317/Jayashree317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Databases
+- MySQL  
+- MongoDB  
+
+### Tools & Others
+- Git & GitHub  
+- Postman  
+- VS Code  
+- JWT Authentication  
+
+---
+
+## 📌 Projects
+🔹 **Project Management Dashboard**  
+- Full CRUD for Projects, Tasks, and Employees  
+- Drag-and-drop task board  
+- Built with React, Redux Toolkit, Spring Boot / Node.js  
+
+🔹 **E-commerce Web Application**  
+- User authentication & product management  
+- Secure backend APIs  
+- Integrated database operations  
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 🎯 What I’m Looking For
+- Java Developer / Full-Stack Developer roles  
+- Opportunities to work with Spring Boot & modern frontend frameworks  
+- A team where I can learn, contribute, and grow 🚀
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *[Add your LinkedIn URL here]*  
+- 📧 Email: *[Add your email here]*  
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
