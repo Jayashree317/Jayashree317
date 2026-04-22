@@ -57,7 +57,7 @@
 ---
 
 ## 🎯 What I’m Looking For
-- Java Developer / Full-Stack Developer roles  
+- Java Developer / React js Developer / Full-Stack Developer roles  
 - Opportunities to work with Spring Boot & modern frontend frameworks  
 - A team where I can learn, contribute, and grow 🚀
 
